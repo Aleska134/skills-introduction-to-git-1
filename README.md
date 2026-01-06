@@ -17,7 +17,7 @@ The goal of this exercise is to reinforce Git fundamentals through practical, ha
 This repository includes:
 
 - `src/` – source files created during the exercise  
-- `.gitignore` – ignored files (if applicable)
+- `README.md` – project documentation and exercise overview
 
 ## 🚀 How to Use
 
